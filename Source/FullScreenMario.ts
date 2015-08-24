@@ -56,7 +56,7 @@ module FullScreenMario {
         /**
          * Static scale of 2, to exand to two pixels per one game pixel.
          */
-        public static scale: number = 2;
+        public static scale: number = 1;
 
         /**
          * Gravity is always a function of unitsize (and about .48).
